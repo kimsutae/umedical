@@ -446,7 +446,7 @@ function bindKind(){
 				}
 			
 			
-			//선택한 병원 및 약국 맵에서 정보 보기
+			//선택한 병원  맵에서 정보 보기
 			$("#site-box").on("click",".icon-no", function(){
 				
 				var ind = $(this).data('index');				
